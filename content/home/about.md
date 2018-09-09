@@ -32,4 +32,4 @@ weight = 5
 
 # Biography
 
-I am a master's student at Utah State University. My main research interest is the evolutionary, physiological, and geneic basis of the hornwort pyrenoid, which is the only biophysical Carbon Concentrating Mechanism (CCM) in land plants. I am also developing software to make the annotation of RNA editing in the organellar genomes of hornworts, liverworts, and ferns. In addition to these projects, I am currently contributing to projects invesitgating the organellar genomes of Santaleles, the nuclear and organellar genomes of hornworts, and the role of red and blue light in patchy stomatal conductance. 
+I am a master's student at Utah State University. My main research interest is the evolutionary, physiological, and geneic basis of the hornwort pyrenoid.  I am also developing software to make the annotation of RNA editing easier in the organellar genomes of hornworts, liverworts, and ferns. In addition to these projects, I am currently contributing to projects invesitgating the organellar genomes of Santalales, the nuclear and organellar genomes of hornworts, and the role of red and blue light in patchy stomatal conductance. 
