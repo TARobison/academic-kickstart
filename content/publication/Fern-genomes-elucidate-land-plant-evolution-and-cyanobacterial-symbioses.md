@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "\static\files\Fern_genomes_elucidate_land_plant_evol_and_cyano_symbio.pdf"
+url_pdf = "/static/files/Fern_genomes_elucidate_land_plant_evol_and_cyano_symbio.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
