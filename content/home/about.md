@@ -10,31 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Genomics",
+    "Evolution",
+    "Symbiosis",
+    "Bioinformatics",
+    "Photosynthesis"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MSc in Biology"
+  institution = "Utah State University"
+  year = 2017-
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Biology"
+  institution = "Utah State University"
+  year = 2017
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a master's student at Utah State University. My main research interest is the evolutionary, physiological, and geneic basis of the hornwort pyrenoid, which is the only biophysical Carbon Concentrating Mechanism (CCM) in land plants. I am also developing software to make the annotation of RNA editing in the organellar genomes of hornworts, liverworts, and ferns. In addition to these projects, I am currently contributing to projects invesitgating the organellar genomes of Santaleles, the nuclear and organellar genomes of hornworts, and the role of red and blue light in patchy stomatal conductance. 
