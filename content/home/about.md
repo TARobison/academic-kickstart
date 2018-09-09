@@ -21,15 +21,16 @@ weight = 5
 [[education.courses]]
   course = "MSc in Biology"
   institution = "Utah State University"
-  year = 2017
+  year = "2017-present"
 
 [[education.courses]]
   course = "BSc in Biology"
   institution = "Utah State University"
-  year = 2017
+  year = "2012-2017"
  
 +++
 
 # Biography
 
-I am a master's student at Utah State University. My main research interest is the evolutionary, physiological, and geneic basis of the hornwort pyrenoid.  I am also developing software to make the annotation of RNA editing easier in the organellar genomes of hornworts, liverworts, and ferns. In addition to these projects, I am currently contributing to projects invesitgating the organellar genomes of Santalales, the nuclear and organellar genomes of hornworts, and the role of red and blue light in patchy stomatal conductance. 
+I am a master's student at Utah State University. My primary research interest is the evolutionary, physiological, and genetic basis of the hornwort pyrenoid.  I am also developing software to make the annotation of RNA editing easier in the organellar genomes of hornworts, liverworts, and ferns. In addition to these projects, I am currently contributing to projects investigating the organellar genomes of Santalales, the nuclear and organellar genomes of hornworts, and the role of red and blue light in patchy stomatal conductance.
+

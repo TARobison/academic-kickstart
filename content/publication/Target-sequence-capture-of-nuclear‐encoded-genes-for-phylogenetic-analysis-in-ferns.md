@@ -21,7 +21,8 @@ publication_types = ["2"]
 
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Until recently, most phylogenetic studies of ferns were based on chloroplast genes. Evolutionary inferences based on these data can be incomplete because the characters are from a single linkage group and are uniparentally inherited. These limitations are particularly acute in studies of hybridization, which is prevalent in ferns; fern hybrids are common and ferns are able to hybridize across highly diverged lineages, up to 60 million years since divergence in one documented case. However, it not yet clear what effect such hybridization has on fern evolution, in part due to a paucity of available biparentally inherited (nuclear‐encoded) markers."
+
 abstract_short = ""
 
 # Featured image thumbnail (optional)
