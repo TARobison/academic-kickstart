@@ -43,8 +43,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://www.nature.com/articles/s41477-018-0188-8"
+url_pdf = "\static\files\Fern_genomes_elucidate_land_plant_evol_and_cyano_symbio.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

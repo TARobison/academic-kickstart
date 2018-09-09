@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1002/aps3.1148"
+url_pdf = "static\files\Wolf_et_al-2018-Applications_in_Plant_Sciences.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
