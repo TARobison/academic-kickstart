@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "MSc in Biology"
   institution = "Utah State University"
-  year = 2017-
+  year = 2017
 
 [[education.courses]]
   course = "BSc in Biology"
