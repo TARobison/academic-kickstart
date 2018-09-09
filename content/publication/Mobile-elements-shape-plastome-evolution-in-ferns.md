@@ -45,7 +45,7 @@ tags = []
 #"files/evy189_preprint.pdf"
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "files/evy189_preprint.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
