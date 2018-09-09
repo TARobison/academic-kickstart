@@ -42,10 +42,10 @@ projects = []
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
-
+#"files/evy189_preprint.pdf"
 # Links (optional).
 url_pdf = ""
-url_preprint = ""#"files/evy189_preprint.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

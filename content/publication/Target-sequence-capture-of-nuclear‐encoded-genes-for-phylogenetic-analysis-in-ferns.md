@@ -41,9 +41,9 @@ projects = []
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
-
+#"files/Wolf_et_al-2018-Applications_in_Plant_Sciences.pdf"
 # Links (optional).
-url_pdf = ""  #"files/Wolf_et_al-2018-Applications_in_Plant_Sciences.pdf"
+url_pdf = ""  
 url_preprint = ""
 url_code = ""
 url_dataset = ""
